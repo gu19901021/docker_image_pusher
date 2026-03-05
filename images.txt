@@ -2,6 +2,7 @@
 #emqx/emqx:latest
 #langgenius/dify-web:latest
 #langgenius/dify-api:latest
-langgenius/dify-worker:latest
+#langgenius/dify-worker:latest
+langgenius/dify-plugin-daemon:latest
 #postgres:15-alpine
 #redis:7-alpine
