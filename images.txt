@@ -1,5 +1,6 @@
 #season/fastdfs-nginx:latest
 #emqx/emqx:latest
 #langgenius/dify-web:latest
+langgenius/dify-api:latest
 #postgres:15-alpine
-redis:7-alpine
+#redis:7-alpine
