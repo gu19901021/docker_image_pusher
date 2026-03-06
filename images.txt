@@ -4,6 +4,7 @@
 #langgenius/dify-api:latest
 #langgenius/dify-worker:latest
 #langgenius/dify-plugin-daemon:latest
-langgenius/dify-plugin-daemon:c100de86651fe979a700cc9a28e3fbebf78197c9-local
+#langgenius/dify-plugin-daemon:c100de86651fe979a700cc9a28e3fbebf78197c9-local
+langgenius/dify-plugin-daemon:0.4.1-local
 #postgres:15-alpine
 #redis:7-alpine
