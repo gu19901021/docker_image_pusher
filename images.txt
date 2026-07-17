@@ -7,6 +7,7 @@
 #langgenius/dify-plugin-daemon:c100de86651fe979a700cc9a28e3fbebf78197c9-local
 #langgenius/dify-plugin-daemon:0.5.3-local
 #emqx:5.1
-gotenberg/gotenberg:8.32
+#gotenberg/gotenberg:8.32
 #postgres:15-alpine
 #redis:7-alpine
+openjdk:17
