@@ -10,4 +10,4 @@
 #gotenberg/gotenberg:8.32
 #postgres:15-alpine
 #redis:7-alpine
-openjdk:17
+eclipse-temurin:17.0.19_10-jre-headless-jammy
